@@ -1,2 +1,2 @@
-# Intelig-ncia-Artificial
-Projeto com IA
+# projeto cultural
+Projeto cultural
